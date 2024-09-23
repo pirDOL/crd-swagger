@@ -1,9 +1,9 @@
-module github.com/KevinJoiner/crd-swagger
+module github.com/pirDOL/crd-swagger
 
 go 1.20
 
 require (
-	github.com/docker/docker v24.0.6+incompatible
+	github.com/docker/docker v25.0.0+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/rancher/wrangler/v2 v2.1.1-0.20230906224618-0a0c44968689
 	github.com/sirupsen/logrus v1.9.3
